@@ -1,0 +1,15 @@
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\bin\Debug\net8.0\1652. Defuse the Bomb.exe
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\bin\Debug\net8.0\1652. Defuse the Bomb.deps.json
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\bin\Debug\net8.0\1652. Defuse the Bomb.runtimeconfig.json
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\bin\Debug\net8.0\1652. Defuse the Bomb.dll
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\bin\Debug\net8.0\1652. Defuse the Bomb.pdb
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.AssemblyInfoInputs.cache
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.AssemblyInfo.cs
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.csproj.CoreCompileInputs.cache
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.sourcelink.json
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.dll
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\refint\1652. Defuse the Bomb.dll
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.pdb
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\1652. Defuse the Bomb.genruntimeconfig.cache
+C:\Users\G11309003\Documents\Hans Project\LeetCode_Project\1652. Defuse the Bomb\1652. Defuse the Bomb\obj\Debug\net8.0\ref\1652. Defuse the Bomb.dll
